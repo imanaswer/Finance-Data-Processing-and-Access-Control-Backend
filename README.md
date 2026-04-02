@@ -30,7 +30,7 @@ The first user to register automatically becomes admin — no bootstrapping step
 ## Getting started
 
 ```bash
-git clone <your-repo-url>
+
 cd finance_backend
 
 python -m venv venv
